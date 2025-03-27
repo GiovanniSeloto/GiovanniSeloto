@@ -1,4 +1,4 @@
-<h1>Olá! Sou sou o Giovanni Seloto</h1>
+<h1>Olá! Sou sou o Giovanni Seloto 👋</h1>
 Desenvolvedor Front-end com paixão por tecnologia, amo cirar desings intuitivos e eficientes!
 
 - 🕵️‍♀️ Estou terminando minha graduação em Desenvolvimento de Sistemas e estudando [Node.js e React].
